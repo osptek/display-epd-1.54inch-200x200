@@ -1,0 +1,10 @@
+id: EPD0154A281A0
+category: displays
+size: "1.54"
+panel: epd
+resolution: 200x200
+interface: [spi]
+driver: JD79660CA
+touch: null
+outline: 37.32 x 31.80 x 0.86 mm
+active_area: 27.00 x 27.00 mm
